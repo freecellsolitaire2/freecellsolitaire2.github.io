@@ -3,5 +3,55 @@
         "name": "Freecell Solitaire",
         "slug": "freecell-solitaire",
         "image": "/cache/data/image/game/freecell-solitaire/freecell-solitaire-m186x186.webp"
+    },
+    {
+        "name": "Double Scorpion",
+        "slug": "double-scorpion",
+        "image": "/cache/data/image/game/double-scorpion/double-scorpion-m186x186.webp"
+    },
+    {
+        "name": "Klondike Solitaire Turn 3",
+        "slug": "klondike-solitaire-turn-3",
+        "image": "/cache/data/image/game/klondike-solitaire-turn-3/klondike-solitaire-turn-3-m186x186.webp"
+    },
+    {
+        "name": "Spider Solitaire 4 Suits",
+        "slug": "spider-solitaire-4-suits",
+        "image": "/cache/data/image/game/spider-solitaire-4-suits/spider-solitaire-4-suits-m186x186.webp"
+    },
+    {
+        "name": "Double Easthaven",
+        "slug": "double-easthaven",
+        "image": "/cache/data/image/game/double-easthaven/double-easthaven-m186x186.webp"
+    },
+    {
+        "name": "Beetle Solitaire",
+        "slug": "beetle-solitaire",
+        "image": "/cache/data/image/game/beetle-solitaire/beetle-solitaire-m186x186.webp"
+    },
+    {
+        "name": "Yukon Solitaire",
+        "slug": "yukon-solitaire",
+        "image": "/cache/data/image/game/yukon-solitaire/yukon-solitaire1-m186x186.webp"
+    },
+    {
+        "name": "Russian Solitaire",
+        "slug": "russian-solitaire",
+        "image": "/cache/data/image/game/russian-solitaire/russian-solitaire-m186x186.webp"
+    },
+    {
+        "name": "Alaska Solitaire",
+        "slug": "alaska-solitaire",
+        "image": "/cache/data/image/game/alaska-solitaire/alaska-solitaire-m186x186.webp"
+    },
+    {
+        "name": "Spiderette",
+        "slug": "spiderette",
+        "image": "/cache/data/image/game/spiderette/spiderette-m186x186.webp"
+    },
+    {
+        "name": "Mahjong Solitaire",
+        "slug": "mahjong-solitaire",
+        "image": "/cache/data/image/game/mahjong-solitaire/mahjong-solitaire-m186x186.webp"
     }
 ]
