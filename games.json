@@ -1,7 +1,7 @@
 [
     {
-        "name": "Free Cell",
-        "slug": "free-cell",
-        "image": "/cache/data/image/game/free-cell/freecell_solitaire_classic-m186x186.webp"
+        "name": "Freecell Solitaire",
+        "slug": "freecell-solitaire",
+        "image": "/cache/data/image/game/freecell-solitaire/freecell-solitaire-m186x186.webp"
     }
 ]
